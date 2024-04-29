@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConvergehubTest01</string>
+    <string name="no_internet_connection">No Internet</string>
+    <string name="retry">Retry</string>
+    <string name="image_chooser">File Chooser</string>
+
+</resources>
